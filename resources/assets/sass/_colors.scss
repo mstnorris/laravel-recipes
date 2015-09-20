@@ -1,0 +1,22 @@
+@import "../../../node_modules/sass-material-colors/sass/sass-material-colors";
+@import "../../../node_modules/sass-material-colors/sass/sass-material-colors-placeholders";
+@import "../../../node_modules/sass-material-colors/sass/sass-material-colors-classes";
+
+$navbar-default-bg: rgba(255,255,255,.9);
+$navbar-default-link-color: material-color('blue-grey');
+$navbar-default-link-active-bg: none;
+$navbar-default-color: material-color('blue-grey');
+$navbar-default-brand-color: material-color('blue-grey');
+$navbar-default-border: none;
+$text-color: material-color('blue-grey');
+$brand-primary: material-color('blue-grey');
+
+$brand-success: material-color('light-green');
+$brand-info: material-color('light-blue');
+$brand-warning: material-color('amber');
+$brand-danger: material-color('red', 'a200');
+
+$panel-info-heading-bg: material-color('light-blue');
+$panel-success-heading-bg: material-color('light-green');
+$panel-warning-heading-bg: material-color('amber');
+$panel-danger-heading-bg: material-color('red', 'a200');
